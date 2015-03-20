@@ -1,0 +1,14 @@
+{
+  "name": "palmer-web",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "1.11.2",
+    "bootstrap": ">=3.3.0",
+    "modernizr": "^2.8.3",
+    "fontawesome": ">=4.3.0"
+  },
+  "devDependencies": {
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2"
+  }
+}
